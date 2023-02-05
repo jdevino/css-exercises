@@ -1,0 +1,12 @@
+.std-button {
+    font-size:   28px;
+}
+
+.click-first{
+    color : rgb(247, 242, 242);
+    background-color: rgb(0, 0, 0);
+}
+
+.click-next{
+    background-color: yellow;
+}
